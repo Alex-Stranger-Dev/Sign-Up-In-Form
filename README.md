@@ -1,2 +1,2 @@
 # Sign-Up-In-Form
-Sign Up/In Form HTML/CSS/JS
+Sign Up/In Form made by HTML/CSS/Vanilla JS
